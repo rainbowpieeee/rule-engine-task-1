@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Ivan Cheprasov",
+  "author": "Keyt Stolbova",
   "license": "ISC",
   "dependencies": {
     "json-rules-engine": "^6.1.2"
