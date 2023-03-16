@@ -1,0 +1,13 @@
+{
+  "name": "json-rule-engine",
+  "version": "1.0.0",
+  "description": "Rule engine Task 1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ivan Cheprasov",
+  "license": "ISC",
+  "dependencies": {
+    "json-rules-engine": "^6.1.2"
+  }
+}
